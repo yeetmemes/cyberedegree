@@ -1,0 +1,8 @@
+user name 1 # des
+password hash# $krb5pa$3$des$DENYDC$DENYDC.COMdes$233b4272aa93727221facfdbdcc9d1d9a0c43a2798c810600310c0daf48fb969c26cb47d69f575a65e00163845f68811f9c5266271cc0f91
+
+Cracked password# 123
+
+username2 # u5
+password hash# $krb5pa$23$u5$DENYDC$DENYDC.COMdes$daf324dccec73739f6e49ef8fde60a9f9dfff50551ff5a7e969c6e395f18b842fb17c3b503df3025ab5a9dfc3031e893c4002008
+Cracked password# 123
