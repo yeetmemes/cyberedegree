@@ -1,0 +1,12 @@
+One existing company with a strategic goal is Amazon. One of their strategic goals is to continue increasing their revenue by expanding their product offerings and customer base.
+
+Pain points or drivers to this requirement may include:
+
+Competition: Amazon faces stiff competition from other retailers, especially those that have a strong online presence.
+Customer satisfaction: As Amazon continues to expand, they need to ensure that they maintain high levels of customer satisfaction, or risk losing customers to competitors.
+Innovation: To stay ahead of the competition, Amazon needs to continue to innovate and introduce new products and services.
+In terms of planning, Amazon likely uses a variety of tools and processes to manage their software development and deployment, including Agile methodologies, ALM tools like JIRA, and deployment tools like AWS CodeDeploy.
+
+To fill the gaps in their tooling and provide full automation, Amazon may look to implement additional tools or platforms that can automate the entire software development and deployment process, including planning, building, testing, and release. Some of the technologies they can introduce is serverless technologies, container based microservices, Infrastructure as code tools like ansible etc. Security tools for any security issues and vulnerabilities ( Aqua sec or any amazon native container security management tools)
+
+To determine how much improvement has been made with the new proposed system, Amazon may conduct metrics analysis and benchmarking against their previous system. They may also gather feedback from users and stakeholders to gauge the effectiveness of the new system in terms of speed, acceleration, and release of software.
