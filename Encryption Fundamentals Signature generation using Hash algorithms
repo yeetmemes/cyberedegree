@@ -1,0 +1,11 @@
+Using the following algorithms, generate a valid signature for the message 2.
+
+Hash function: (x+3) mod 10
+
+Encryption: RSA with the following parameters
+
+Private key: 11
+
+Public key: 5
+
+Modulus: 14
